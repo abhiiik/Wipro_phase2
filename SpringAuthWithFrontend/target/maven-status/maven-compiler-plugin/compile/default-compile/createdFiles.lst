@@ -1,0 +1,4 @@
+com\example\demo\SecurityConfig.class
+com\example\demo\AuthdemoApplication.class
+com\example\demo\SecurityController.class
+com\example\demo\DashboardController.class
